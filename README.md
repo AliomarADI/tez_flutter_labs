@@ -16,8 +16,7 @@
 
 🔗 [Репозиторий](https://github.com/vi-k/demo_zones)
 
-- **Platform Channels** — Platform Channels, Platform Views vs Texture, Pigeon, background channels, FFI, мульти-движок.
-
+**Platform Channels** — Platform Channels, Platform Views vs Texture, Pigeon, background channels, FFI, мульти-движок.
 
 
 📨 Вопросы, обсуждения и анонсы — в Telegram: **https://t.me/tez_flutter_lab**
